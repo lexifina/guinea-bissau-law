@@ -2,3 +2,4 @@
 UN Treaty Collection reference: XXVI-9.
 Depositary: Secretary-General of the United Nations.
 Signature: 2018-09-26.
+Ratification: 2021-12-15.
