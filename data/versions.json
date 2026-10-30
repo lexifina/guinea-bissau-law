@@ -1,0 +1,505 @@
+{
+ "country": "GW",
+ "acts": [
+  {
+   "slug": "treaties",
+   "short": "Treaties",
+   "title": "Treaty actions of Guinea-Bissau recorded by WIPO Lex (facts only; no treaty text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+   "versions": [
+    {
+     "from": "1974-02-21",
+     "units": 3,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1976-12-12",
+     "units": 4,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1977-12-15",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1986-08-25",
+     "units": 6,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1986-10-21",
+     "units": 8,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1988-03-28",
+     "units": 10,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1991-04-18",
+     "units": 11,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1992-06-24",
+     "units": 12,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1992-07-02",
+     "units": 13,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1995-05-31",
+     "units": 15,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1995-10-27",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1997-05-02",
+     "units": 19,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1997-09-12",
+     "units": 20,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1998-07-08",
+     "units": 21,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2001-01-14",
+     "units": 22,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2002-11-12",
+     "units": 23,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2005-11-18",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2006-01-28",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2006-02-01",
+     "units": 26,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2007-10-24",
+     "units": 27,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2008-08-06",
+     "units": 28,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2008-11-07",
+     "units": 29,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2010-05-19",
+     "units": 30,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2012-01-27",
+     "units": 31,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2013-09-24",
+     "units": 34,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2014-09-24",
+     "units": 35,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2016-03-07",
+     "units": 37,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2016-09-19",
+     "units": 38,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2018-10-22",
+     "units": 39,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2019-09-26",
+     "units": 40,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2023-04-04",
+     "units": 41,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "2025-06-09",
+     "units": 42,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    }
+   ]
+  },
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of laws of Guinea-Bissau recorded by WIPO Lex (title, date, link only; no law text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+   "versions": [
+    {
+     "from": "1966-04-27",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1984-05-16",
+     "units": 2,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    },
+    {
+     "from": "1997-02-25",
+     "units": 3,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/GW",
+     "sha256": "219dc953c6f671d0fff214435c937dae8e55a1999e8196141d655eda1ef3f3d4"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Legal system of Guinea-Bissau: open facts (Wikidata, WIPO Lex)",
+   "url": "https://www.wikidata.org/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://query.wikidata.org/sparql",
+     "sha256": "76cc11ceeab74668d8d371a282f7d7a3f75a7be79f10cd8ad2766961f4acfe70"
+    }
+   ]
+  },
+  {
+   "slug": "un-treaties",
+   "short": "UN treaties",
+   "title": "Treaty actions of Guinea-Bissau on multilateral treaties deposited with the UN Secretary-General (UN Treaty Collection; no treaty text)",
+   "url": "https://treaties.un.org/",
+   "versions": [
+    {
+     "from": "1974-07-29",
+     "units": 1,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1976-02-11",
+     "units": 3,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1980-07-17",
+     "units": 4,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1982-12-10",
+     "units": 5,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1984-09-25",
+     "units": 5,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1985-08-23",
+     "units": 5,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1986-05-16",
+     "units": 6,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1986-08-25",
+     "units": 6,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1990-01-26",
+     "units": 7,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1990-08-20",
+     "units": 7,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1992-06-12",
+     "units": 9,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1992-07-02",
+     "units": 10,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1993-08-11",
+     "units": 11,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1994-10-15",
+     "units": 12,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1995-10-27",
+     "units": 16,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1997-12-03",
+     "units": 17,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2000-09-08",
+     "units": 19,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2000-09-12",
+     "units": 27,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2000-12-14",
+     "units": 30,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2001-05-22",
+     "units": 30,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2001-11-14",
+     "units": 31,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2002-11-12",
+     "units": 33,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2005-02-09",
+     "units": 34,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2005-11-18",
+     "units": 35,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2007-09-10",
+     "units": 36,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2008-08-06",
+     "units": 39,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2008-09-19",
+     "units": 39,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2008-12-04",
+     "units": 40,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2009-08-05",
+     "units": 40,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2009-09-25",
+     "units": 41,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2010-05-19",
+     "units": 42,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2010-11-01",
+     "units": 42,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2010-11-29",
+     "units": 42,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2013-09-24",
+     "units": 49,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2013-09-26",
+     "units": 50,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2014-09-24",
+     "units": 50,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 51,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2016-09-19",
+     "units": 53,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2018-09-26",
+     "units": 54,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2018-10-22",
+     "units": 54,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2021-06-14",
+     "units": 55,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2021-12-15",
+     "units": 55,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    }
+   ]
+  }
+ ]
+}
